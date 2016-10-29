@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="Servlet3Filter"
+  id="myeclipse.1408122613387"
+  context-root="/Servlet3Filter"
+  j2ee-spec="6.0"
+  archive="Servlet3Filter.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+

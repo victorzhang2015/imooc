@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="springMvc_forLife"
+  id="myeclipse.1468502274486"
+  context-root="/springMvc_forLife"
+  j2ee-spec="6.0"
+  archive="springMvc_forLife.war">
+  <attributes>
+    <attribute name="webrootdir" value="src/main/webapp" />
+  </attributes>
+</project-module>
+
